@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheFrontEndWolf/Colors-Palette/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/TheFrontEndWolf/Colors-Palette/static/js/main.a80857c7.chunk.js",
+    "main.js.map": "/TheFrontEndWolf/Colors-Palette/static/js/main.a80857c7.chunk.js.map",
+    "runtime-main.js": "/TheFrontEndWolf/Colors-Palette/static/js/runtime-main.dab4c34f.js",
+    "runtime-main.js.map": "/TheFrontEndWolf/Colors-Palette/static/js/runtime-main.dab4c34f.js.map",
+    "static/js/2.cc93c258.chunk.js": "/TheFrontEndWolf/Colors-Palette/static/js/2.cc93c258.chunk.js",
+    "static/js/2.cc93c258.chunk.js.map": "/TheFrontEndWolf/Colors-Palette/static/js/2.cc93c258.chunk.js.map",
+    "static/js/3.c0317c92.chunk.js": "/TheFrontEndWolf/Colors-Palette/static/js/3.c0317c92.chunk.js",
+    "static/js/3.c0317c92.chunk.js.map": "/TheFrontEndWolf/Colors-Palette/static/js/3.c0317c92.chunk.js.map",
+    "index.html": "/TheFrontEndWolf/Colors-Palette/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/TheFrontEndWolf/Colors-Palette/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cc93c258.chunk.js.LICENSE.txt": "/TheFrontEndWolf/Colors-Palette/static/js/2.cc93c258.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab4c34f.js",
+    "static/js/2.cc93c258.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a80857c7.chunk.js"
+  ]
+}
